@@ -1,0 +1,6 @@
+module Pods_MyAlbumApp {
+  umbrella header "Pods-MyAlbumApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
