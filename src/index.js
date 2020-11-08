@@ -1,3 +1,5 @@
-export const sample = () => {
-	
+const sample = () => {
+
 }
+
+export default sample;
